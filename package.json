@@ -1,0 +1,22 @@
+{
+  "name": "expressprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengyang2014/expressPrac.git"
+  },
+  "author": "zeng yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengyang2014/expressPrac/issues"
+  },
+  "homepage": "https://github.com/zengyang2014/expressPrac#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
