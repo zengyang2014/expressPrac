@@ -1,11 +1,8 @@
-const express = require('express');
+alert('this is a test');
+console.log('this is a test')
 
-const app = express();
+function test() {
+  console.log('test')
+}
 
-app.get('/', (req, res) => {
-  res.send('Hello this is express practice.')
-});
-
-app.listen(3434, () => {
-  console.log('Example app listening on port 3434');
-});
+test();
